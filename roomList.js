@@ -96,4 +96,4 @@ app.delete('/roomlist', function(req, res) {
     console.log(">> post /roomlist 요청됨");
 });
 
-app.listen(7203);
+app.listen(3000);
